@@ -1,0 +1,21 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+
+#Local folders
+files
+logos
+admin_photos
+user_photos
+piece_images
+billet_images
+ouvrage_images
+
+# Local development
+*.env
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
